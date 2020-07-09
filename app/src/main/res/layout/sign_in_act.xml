@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="@dimen/activity_normal"
+        android:layout_marginEnd="@dimen/activity_normal"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/acc_name_edt"
+            style="@style/Halo.TextView.Body2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/activity_normal"
+            android:background="@drawable/textinputborder"
+            android:padding="@dimen/activity_normal"
+            android:text="pham48533@gmail.com" />
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/pass_edt"
+            style="@style/Halo.TextView.Body2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/activity_normal"
+            android:background="@drawable/textinputborder"
+            android:inputType="textPassword"
+            android:padding="@dimen/activity_normal"
+            android:text="Lumia520" />
+
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/login_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Đăng Nhập" />
+
+        <!--        <com.google.android.material.button.MaterialButton-->
+        <!--            android:id="@+id/login_btn"-->
+        <!--            android:layout_width="match_parent"-->
+        <!--            android:layout_height="wrap_content"-->
+        <!--            android:text="Đăng Nhập" />-->
+
+
+    </LinearLayout>
+</layout>

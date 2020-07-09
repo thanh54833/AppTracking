@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <!--Theme Halo-->
+    <color name="halo_theme_text_primary_color">#166986</color>
+    <color name="halo_theme_text_focus_color">#47A216</color>
+    <color name="halo_theme_text_notice_color">#EE4400</color>
+    <color name="halo_theme_text_dark_color">#16171b</color>
+    <color name="halo_theme_text_body_color">#373c4b</color>
+    <color name="halo_theme_text_secondary_color">#565b6b</color>
+    <color name="halo_theme_text_light_color">#8b8f9b</color>
+    <color name="halo_theme_text_lighter_color">#afb2bb</color>
+    <color name="status_error">#b50000</color>
+    <color name="status_success">#009131</color>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="activity_normal">16dp</dimen>
+    <dimen name="activity_small">8dp</dimen>
+
+
+    <dimen name="halo_btn_padding_left">16dp</dimen>
+    <dimen name="halo_btn_padding_right">16dp</dimen>
+    <dimen name="halo_btn_stroke_size">1dp</dimen>
+    <dimen name="halo_btn_corner_radius">25dp</dimen>
+    <dimen name="halo_btn_inset">6dp</dimen>
+    <dimen name="halo_body2_text_size">15sp</dimen>
+
+
+</resources>
